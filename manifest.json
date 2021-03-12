@@ -1,0 +1,10 @@
+{
+   "domain": "plex_server",
+   "name": "Plex Server",
+   "version": "v1.00",
+   "documentation": "https://github.com/kingwoftam/home-assistant-custom-components-plex_server",
+   "issue_tracker": "https://github.com/kingwoftam/home-assistant-custom-components-plex_server/issues",
+   "dependencies": [],
+   "codeowners": ["@kingwoftam"],
+   "requirements": []
+}
